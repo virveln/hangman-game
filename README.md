@@ -11,18 +11,24 @@ Appen ska hantera spelet Hangman (Hänga gubbe). Din app ska hantera hela spelet
 ## För att nå VG behöver ditt arbete bestå av följande delar:
 * Komplett inlämning enligt G kriterier ovan.
 * En god objektorienterad design av din inlämning. Där spelet är uppdelad i lämpliga objekt baserat på funktion. En lämplig strategi för detta är "separation of concerns".  Läs mer här: http://aspiringcraftsman.com/2008/01/03/art-of-separation-of-concerns/ 
-* Spelet presenteras med grafik.En "gubbe" hängs grafiskt
+* Spelet presenteras med grafik. En "gubbe" hängs grafiskt
 
-* ## Mockups
-![hagman.game-img1.png](https://github.com/virveln/showcase/blob/main/img-mockup/mh1.png)
+# Mockups
+![hagman.game-img1.png](https://github.com/virveln/hangman-game/blob/main/img-hangman/hm1.png)  
 *Startsida*
-![hagman.game-img2.png](https://github.com/virveln/showcase/blob/main/img-mockup/mh2.png)
+
+![hagman.game-img2.png](https://github.com/virveln/hangman-game/blob/main/img-hangman/hm2.png)  
 *När man klickar på "?" visas spelregler*
-![hagman.game-img3.png](https://github.com/virveln/showcase/blob/main/img-mockup/mh3.png)
+
+![hagman.game-img3.png](https://github.com/virveln/hangman-game/blob/main/img-hangman/hm3.png)  
 *Spelplan*
-![hagman.game-img4.png](https://github.com/virveln/showcase/blob/main/img-mockup/mh4.png)
+
+![hagman.game-img4.png](https://github.com/virveln/hangman-game/blob/main/img-hangman/hm4.png)  
 *Spelplan under spelets gång*
-![hagman.game-img5.png](https://github.com/virveln/showcase/blob/main/img-mockup/mh5.png)
+
+![hagman.game-img5.png](https://github.com/virveln/hangman-game/blob/main/img-hangman/hm5.png)  
 *Popup när spelare har förlorat spelet*
-![hagman.game-img6.png](https://github.com/virveln/showcase/blob/main/img-mockup/mh6.png)
-*Popup när spelare har vunnit spelet*
+
+![hagman.game-img6.png](https://github.com/virveln/hangman-game/blob/main/img-hangman/hm6.png)  
+*Popup när spelare har vunnit spelet*  
+ 
